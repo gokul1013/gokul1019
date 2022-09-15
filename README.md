@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokul1019
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning 3rd yr B.Tech IT
+- 🌱 I’m currently pursuing final year B.Tech IT
 - 💞️ I’m looking to collaborate on full stack developer
 - 📫 How to reach me @sweet_heart_gokul(instagram)
 
